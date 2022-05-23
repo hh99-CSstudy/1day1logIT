@@ -13,8 +13,8 @@
 
 ### 아날로그와 디지털
 <ul>
-	<img src="https://simage.mujikorea.net/goods/31/05/12/88/4547315915224_N_N_400.jpg" width="400px">
-	<img src="http://image.mujikorea.net/goods/31/04/73/97/4547315831982_N_N_400.jpg" width="400px">
+	<img src="https://simage.mujikorea.net/goods/31/05/12/88/4547315915224_N_N_400.jpg" width="250px">
+	<img src="http://image.mujikorea.net/goods/31/04/73/97/4547315831982_N_N_400.jpg" width="250px">
     <li> 컴퓨터는 디지털 데이터를 다룬다</li>
     <li> 현실의 데이터는 입력단에서 최대한 일찍 디지털 형태로 변환되고 출력단에서 최대한 늦게 아날로그로 변환된다</li>
 </ul>
@@ -23,7 +23,7 @@
 # 아날로그 정보를 디지털로 바꾸기
 ### 이미지 디지털화
 <ul>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Photodiode-closeup.jpg/540px-Photodiode-closeup.jpg" width="400px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Photodiode-closeup.jpg/540px-Photodiode-closeup.jpg" width="250px">
     <li>광 검출 소자 </li>
     <ul>
         <li>빛의 강도를 전기 신호로 변환, 검출하는 장치</li>
@@ -54,6 +54,6 @@
 
 ### 텍스트 디지털화
 <ul>
-    <img src="https://patentimages.storage.googleapis.com/c1/0a/19/3e7be16e5dc0bf/pat00002.png" width="700px">
+    <img src="https://patentimages.storage.googleapis.com/c1/0a/19/3e7be16e5dc0bf/pat00002.png" width="500px">
     <li>ASCII(아스키 코드), Unicode등 문자에 고유한 숫자 값을 지정해서 bit를 문자로 변환한다</li>
 </ul>
