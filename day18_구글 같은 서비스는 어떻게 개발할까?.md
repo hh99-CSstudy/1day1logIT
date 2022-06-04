@@ -18,7 +18,7 @@ API는 플러그인, 디지털 인터페이스 및 소프트웨어 통신과 같
 - <b>REST API</b> : HTTP통신에서 어떤 자원에 대한 CRUD요청을 Resource와 Method로 표현하여 특정한 형태로 전달하는 방식.
   REST (REpresentational State Transfer)는 어떤 자원에 대해 CRUD(Create, Read, Update, Delete)연산을 수행하기 위해 UR(Resource)로 요청을 보내는 것으로
   Get, Post 등의 방식(Method)을 사용하여 요청을 보내며, 요청을 위한 자원은 특정한 형태(Representation of Resource)으로 표현된다.
-  그리고 이러한 REST 기반의 API를 웹으로 구현한 것이 RESTful API 인데 예를 들어, 우리는 게시글을 작성하기 위해 “http://localhost:8080/board”라는
+  그리고 이러한 REST 기반의 API를 웹으로 구현한 것이 RESTful API 인데 예를 들어, 우리는 게시글을 작성하기 위해 “http://localhost:8080/board” 라는
   URI에 POST방식을 사용하여 JSON형태의 데이터를 전달할 수 있다.
  
 
