@@ -8,9 +8,10 @@
 
 
 ## 자유로운 소프트웨어, 오픈소스
+<img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F223F164758A1A03106"></img>
 - 소스 코드(source code) : 프로그래머가 작성한 코드
   - 기법이나 아이디어를 읽어 낼 수 있다
- 
+  
 - 오브젝트 코드(object code) : 소스 코드를 프로세서에서 실행하기에 적합한 형태로 컴파일한 코드
   - 많은 변환 과정을 거쳐서 작동방식을 이해하기 어렵다
 
@@ -21,3 +22,6 @@
     - GNU GPL(GNU General Public License) 라는 저작권 라이센스에 따라 구현을 배포하는 방식
   
   - 리눅스, 파이어 폭스, 크롬 브라우저, 아파치, 엔진엑스등도 모두 오픈 소스이다
+  - 국내 기업이 가장 많이 사용하는 오픈소스
+  
+    <img src="https://file.newswire.co.kr/data/datafile2/thumb_640/2021/03/1890383922_20210304100626_1843746677.jpg"></img>
